@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+My name is **Andi**.
+
+I am currently working on [PT. International Chemical Industry](https://www.abc-battery.com/) as **IT Developer**.
+
+Besides that, I'm a master's degree student at Bina Nusantara University.
+
+More about me, please visit [Linkedin](https://www.linkedin.com/in/andititony/). 
+
+Thank you... 
+
 <!--
 **godinandi/godinandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,7 +20,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
