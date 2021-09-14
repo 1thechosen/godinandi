@@ -1,10 +1,14 @@
 ### Hi there.... 👋
 
+</br>
+
 My name is **Andi**.
 
 - 🔭 I’m currently working on on [PT. International Chemical Industry](https://www.abc-battery.com/) as **IT Developer**.
 
-- 🌱 I’m currently studying as master's degree student at Bina Nusantara University.
+- 🌱 I’m currently studying for master's degree of Information Technology at [Bina Nusantara University](https://binus.ac.id/). 
+
+</br>
 
 **Technical Skills:**
 
