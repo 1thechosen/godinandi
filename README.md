@@ -2,9 +2,9 @@
 
 My name is **Andi**.
 
-I am currently working on [PT. International Chemical Industry](https://www.abc-battery.com/) as **IT Developer**.
+- 🔭 I’m currently working on on [PT. International Chemical Industry](https://www.abc-battery.com/) as **IT Developer**.
 
-Besides that, I'm a master's degree student at Bina Nusantara University.
+- 🌱 I’m currently studying as master's degree student at Bina Nusantara University.
 
 **Technical Skills:**
 
