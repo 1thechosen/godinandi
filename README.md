@@ -9,11 +9,11 @@ Besides that, I'm a master's degree student at Bina Nusantara University.
 **Technical Skills:**
 
 <code><img height="50" src="images/php.png"></code>
+<code><img height="50" src="images/codeigniter.png"></code>
 
 <p align="left">
 <a href="https://github.com/gilangadhan">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=godinandi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=godinandi&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
