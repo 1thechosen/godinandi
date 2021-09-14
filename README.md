@@ -8,8 +8,9 @@ Besides that, I'm a master's degree student at Bina Nusantara University.
 
 **Technical Skills:**
 
-<code><img height="50" src="images/php.png"></code>
-<code><img height="50" src="images/codeigniter.png"></code>
+<code><img height="100" src="images/phpCI.jpg"></code>
+<code><img height="100" src="images/javaspring.jpg"></code>
+<code><img height="100" src="images/sqlserver.jpg"></code>
 
 <p align="left">
 <a href="https://github.com/gilangadhan">
