@@ -12,13 +12,13 @@ My name is **Andi**.
 
 **Technical Skills:**
 
-<code><img height="80" width="120" src="images/phpCI.jpg"></code>
-<code><img height="80" width="120" src="images/javaspring.jpg"></code>
-<code><img height="80" width="120" src="images/sqlserver.jpg"></code>
-<code><img height="80" width="120" src="images/javascript.jpg"></code>
-<code><img height="80" width="120" src="images/crystalreport.png"></code>
-<code><img height="80" width="120" src="images/qliksense.jpg"></code>
-<code><img height="80" width="120" src="images/github.png"></code>
+<code><img height="80" width="100" src="images/phpCI.jpg"></code>
+<code><img height="80" width="100" src="images/javaspring.jpg"></code>
+<code><img height="80" width="100" src="images/sqlserver.jpg"></code>
+<code><img height="80" width="100" src="images/javascript.jpg"></code>
+<code><img height="80" width="100" src="images/crystalreport.png"></code>
+<code><img height="80" width="100" src="images/qliksense.jpg"></code>
+<code><img height="80" width="100" src="images/github.png"></code>
 
 <p align="left">
 <a href="https://github.com/gilangadhan">
