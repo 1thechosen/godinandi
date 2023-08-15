@@ -6,7 +6,7 @@ My name is **Andi**.
 
 - 🔭 I’m currently working on on [PT. International Chemical Industry](https://www.abc-battery.com/) as **IT Developer**.
 
-- 🌱 I’m currently studying for master's degree of Information Technology at [Bina Nusantara University](https://binus.ac.id/). 
+- 🌱 I graduated from [Bina Nusantara University](https://binus.ac.id/) in 2023 with master degree of computer science. 
 
 </br>
 
